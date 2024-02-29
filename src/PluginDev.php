@@ -3,7 +3,7 @@ namespace Waxedphp\Waxedphpdev;
 
 use MatthiasMullie\Minify;
 
-class PluginDev extends Plugin {
+class PluginDev extends \Waxedphp\Waxedphp\Plugin {
 
   /**
    * @var int $cache_ttl
