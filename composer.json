@@ -1,0 +1,20 @@
+{
+    "name": "waxedphp/waxedphpdev",
+    "version": "0.2.6",
+    "description": "Advanced views with mustache.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Waxedphp\\Waxedphpdev\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Waxed"
+        }
+    ],
+    "require": {
+      "matthiasmullie/minify":"^1.3.1"
+    }
+}
